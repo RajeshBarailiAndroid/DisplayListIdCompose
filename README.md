@@ -1,35 +1,32 @@
 # Android MVVM Compose 
 
 ## Features
-#### Used MVVM Architecture
-#### Used Jetpack Compose UI
-#### Used Kotlin And Coroutine
-#### Used Mockito for unit testing 
-#### Used Hilt for Dependency Injection
-#### Used Retrofit for network requests
+- Used MVVM Architecture
+- Used Jetpack Compose UI
+- Used Kotlin And Coroutine
+- Used Mockito for unit testing 
+- Used Hilt for Dependency Injection
+- Used Retrofit for network request
+
 
 ## Light Mode
 
-![newDarkMode.png](newDarkMode.png)
-![newLightMode.png](newLightMode.png)
-![newSortIdName.png](newSortIdName.png)
-[SortIdName.webm](SortIdName.webm)
-
-## Light Mode [WifionReload.webm](WifionReload.webm)
-![Screenshot 2023-05-09 103246](https://github.com/RajeshBarailiAndroid/20230509-NYSchool-BarailiRajesh/assets/132971209/67028e08-f196-4b40-94d3-8c75eef98911)
-
-![newSortIdName.png](SortIdName.png)]()
+| Light Theme | Light Theme Sort menu | 
+|------------|-------------|
+| <img src="newLightMode.png" alt="Light Theme" width="300"> | <img src="newSortIdName.png" alt="Light Theme Sort menu" width="300"> |
 ## Dark Mode
 
-| Dark Theme    | Light Theme | 
-|---------------|-------------|
-| ![Dark Theme] | ![Light Theme](file2.png) |
-| Dark Theme    | Light Theme | 
-|---------------------|-------------|
-| ![Dark Theme] | ![Light Theme](file2.png) |
+| Dark Theme |  
+|------------|
+| <img src="newDarkMode.png" alt="Dark Theme" width="300"> | 
 
-|  Demo |
-| --------|
-| ![Demo][SortIdName.mp4](SortIdName.mp4) |
-[WifionReload.mp4](WifionReload.mp4)
+</p>
+
+## Dark Mode
+
+| Dark Theme |  
+|------------|
+| <img src="sort.mp4" alt="Dark Theme" width="300"> | 
+
+</p>
 
