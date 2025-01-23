@@ -23,6 +23,7 @@
 </p>
 
 ## Dark Mode
-| Light Theme | Light Theme Sort menu | 
-|------------|-------------|
-| <img src="SortIdName.mp4" alt="Light Theme" width="300"> | <img src="newSortIdName.png" alt="Light Theme Sort menu" width="300"> |
+
+|  Demo |
+| -------------|
+| ![Demo](sort.mp4) |
