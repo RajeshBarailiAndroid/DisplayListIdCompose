@@ -12,24 +12,21 @@
 
 ## Dark Mode
 
-### Demo Video for Sort ListId and Name
 
-
-| Dark Theme | Light Theme | 
-|------------|-------------|
-| ![Light Theme](newLightMode.png) | ![Light Theme](newSortIdName.png) |
+## Light Mode
 
 | Light Theme | Light Theme Sort menu | 
 |------------|-------------|
-| <img src="newLightMode.png" alt="Light Theme" width="400"> | <img src="newSortIdName.png" alt="Light Theme Sort menu" width="400"> |
+| <img src="newLightMode.png" alt="Light Theme" width="300"> | <img src="newSortIdName.png" alt="Light Theme Sort menu" width="300"> |
+## Dark Mode
 
-| Dark Theme | Light Theme | 
-|------------|-------------|
-| <img src="newDarkMode.png" alt="Dark Theme" width="300"> | <img src="newDarkMode.png" alt="Dark Theme" width="300"> |
+| Dark Theme |  
+|------------|
+| <img src="newDarkMode.png" alt="Dark Theme" width="300"> | 
 
 </p>
 
-
+## Dark Mode
 | Demo |
 |------------|
 | ![Demo](SortIdName.mp4) |
