@@ -9,7 +9,7 @@
 #### Used Retrofit for network requests
 
 
-
+![newDarkMode.png](newDarkMode.png)
 ![newLightMode.png](newLightMode.png)
 ![newSortIdName.png](newSortIdName.png)
 [SortIdName.webm](SortIdName.webm)
@@ -23,10 +23,14 @@
 ![Dark](https://github.com/RajeshBarailiAndroid/20230509-NYSchool-BarailiRajesh/assets/132971209/bf4c6063-c69d-4a9e-a960-bd535c72d000)
 ![newDarkMode.png](newDarkMode.png)
 
-| Dark Theme          | Light Theme | 
+| Dark Theme    | Light Theme | 
+|---------------|-------------|
+| ![Dark Theme] | ![Light Theme](file2.png) |
+| Dark Theme    | Light Theme | 
 |---------------------|-------------|
-| ![Dark Theme] ![newDarkMode.png](newDarkMode.png)    | ![Light Theme]![newLightMode.png](newLightMode.png) |
+| ![Dark Theme] | ![Light Theme](file2.png) |
 
 |  Demo |
-| -------------|
-| ![Demo](demo.gif) |[SortIdName.webm)[SortIdName.webm](..%2F..%2FOneDrive%2FDesktop%2FSortIdName.webm)[WifionReload.webm](..%2F..%2FOneDrive%2FDesktop%2FWifionReload.webm)
+| --------|
+| ![Demo][SortIdName.mp4](SortIdName.mp4) |
+[WifionReload.mp4](WifionReload.mp4)
