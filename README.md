@@ -24,7 +24,7 @@
 
 ## Dark Mode
 
-| Demo              |
-|-------------------|
-| ![Demo](sort.gif) |
+| Demo sort Listid and name | Demo Eorror/reload when wifi off/on |
+|-------------------|-------------|
+| ![Demo](sort.gif) | ![Demo](wifi.gif) |
 
