@@ -24,7 +24,9 @@
 
 ## Dark Mode
 
-| Demo              |
-|-------------------|
-| ![Demo](sort.gif) |
+| Dark Theme |  
+|------------|
+| <img src="sort.mp4" alt="Dark Theme" width="300"> | 
+
+</p>
 
