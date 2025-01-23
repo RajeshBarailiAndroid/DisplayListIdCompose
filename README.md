@@ -24,14 +24,13 @@
 |------------|
 | ![Light Theme](newDarkMode.png) |
 
-
-<div align="center" style="width: 50%; margin: 0 auto;">
+<p align="center">
 
 | Dark Theme |
 |------------|
-| ![Dark Theme](newDarkMode.png) |
+| <img src="newDarkMode.png" alt="Dark Theme" width="300"> |
 
-</div>
+</p>
 
 
 | Demo |
