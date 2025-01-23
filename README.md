@@ -25,6 +25,6 @@
 | ![Light Theme](newDarkMode.png) |
 
 
-| Dark Theme | Light Theme | 
-|------------|-------------|
-| ![Demo](SortIdName.mp4) |![Demo](demo.gif)|
+| Demo |
+|------------|
+| ![Demo](SortIdName.mp4) |
