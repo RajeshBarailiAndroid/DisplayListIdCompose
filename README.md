@@ -12,7 +12,9 @@
 
 ## Dark Mode
 
+## Demo Video
 
-|  Demo |
 
-https://github.com/RajeshBarailiAndroid/DisplayListIdCompose/issues/2#issue-2807170565
+
+https://github.com/user-attachments/assets/097722b3-6a33-47c3-aacc-8c6bc49f50ce
+
