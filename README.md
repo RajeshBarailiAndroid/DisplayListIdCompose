@@ -1,8 +1,8 @@
 # Android MVVM Compose 
 
 ## Features
-#### Used MVVM Architecture
-#### Used Jetpack Compose UI
+- Used MVVM Architecture
+- Used Jetpack Compose UI
 #### Used Kotlin And Coroutine
 #### Used Mockito for unit testing 
 #### Used Hilt for Dependency Injection
