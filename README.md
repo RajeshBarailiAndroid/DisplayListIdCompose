@@ -25,6 +25,15 @@
 | ![Light Theme](newDarkMode.png) |
 
 
+<div align="center" style="width: 50%; margin: 0 auto;">
+
+| Dark Theme |
+|------------|
+| ![Dark Theme](newDarkMode.png) |
+
+</div>
+
+
 | Demo |
 |------------|
 | ![Demo](SortIdName.mp4) |
