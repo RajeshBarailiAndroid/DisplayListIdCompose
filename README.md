@@ -17,7 +17,7 @@
 
 | Dark Theme | Light Theme | 
 |------------|-------------|
-| ![Dark Theme](newDarkMode.png) | ![Light Theme](file2.png) |
+| ![Light Theme](newLightMode.png)  ![Light Theme](newLightMode.png) | ![Light Theme](file2.png) |
 
 |  Demo |
 | -------------|
