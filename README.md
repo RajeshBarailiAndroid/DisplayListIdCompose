@@ -19,6 +19,12 @@
 |------------|-------------|
 | ![Light Theme](newLightMode.png) | ![Light Theme](newSortIdName.png) |
 
-|  Demo |
-| -------------|
-| ![Demo](demo.gif) |
+
+| Dark Theme |
+|------------|
+| ![Light Theme](newDarkMode.png) |
+
+
+| Dark Theme | Light Theme | 
+|------------|-------------|
+| ![Demo](SortIdName.mp4) |![Demo](demo.gif)|
