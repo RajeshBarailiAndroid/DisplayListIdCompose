@@ -20,16 +20,9 @@
 | ![Light Theme](newLightMode.png) | ![Light Theme](newSortIdName.png) |
 
 
-<p align="center">
-  <img src="newDarkMode1.png" alt="Dark Theme 1" width="300">
-  <img src="newDarkMode2.png" alt="Dark Theme 2" width="300">
-</p>
-
-<p align="center">
-
-| Dark Theme |
-|------------|
-| <img src="newDarkMode.png" alt="Dark Theme" width="300"> |
+| Dark Theme | Light Theme | 
+|------------|-------------|
+| <img src="newDarkMode.png" alt="Dark Theme" width="300"> | <img src="newDarkMode.png" alt="Dark Theme" width="300"> |
 
 </p>
 
