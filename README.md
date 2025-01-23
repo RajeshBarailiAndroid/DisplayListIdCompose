@@ -19,6 +19,9 @@
 |------------|-------------|
 | ![Light Theme](newLightMode.png) | ![Light Theme](newSortIdName.png) |
 
+| Light Theme | Light Theme Sort menu | 
+|------------|-------------|
+| <img src="newLightMode.png" alt="Light Theme" width="400"> | <img src="newSortIdName.png" alt="Light Theme Sort menu" width="400"> |
 
 | Dark Theme | Light Theme | 
 |------------|-------------|
