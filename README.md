@@ -4,7 +4,7 @@
 #### Used MVVM Architecture
 #### Used Jetpack Compose UI
 #### Used Kotlin And Coroutine
-#### Used Mock for unit testing 
+#### Used Mockito for unit testing 
 #### Used Hilt for Dependency Injection
 #### Used Retrofit for network requests
 
