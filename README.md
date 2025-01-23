@@ -8,10 +8,6 @@
 #### Used Hilt for Dependency Injection
 #### Used Retrofit for network requests
 
-## Light Mode
-
-## Dark Mode
-
 
 ## Light Mode
 
