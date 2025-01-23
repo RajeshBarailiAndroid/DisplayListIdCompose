@@ -1,4 +1,4 @@
-# Android MVVM Compose
+# Android MVVM Compose Hilt Mock
 
 ## Features
 #### Used MVVM Architecture
