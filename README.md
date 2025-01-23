@@ -6,7 +6,7 @@
 #### Used Kotlin And Coroutine
 #### Used Mockito for unit testing 
 #### Used Hilt for Dependency Injection
-#### Used Retrofit for network requests
+#### Used Retrofit for network request
 
 
 ## Light Mode
